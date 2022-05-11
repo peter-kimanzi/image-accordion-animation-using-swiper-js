@@ -6,4 +6,4 @@ image accordion animation using swiper js
 
 https://peter-kimanzi.github.io/image-accordion-animation-using-3js/
 
-## Don forget to star 
+## Star this repo
