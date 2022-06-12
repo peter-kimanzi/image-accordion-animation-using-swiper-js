@@ -11,4 +11,4 @@ https://peter-kimanzi.github.io/image-accordion-animation-using-swiper-js/
 ## Star this repo
 
 
-# Enjoy!!
+# Enjoy!
